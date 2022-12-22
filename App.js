@@ -5,7 +5,7 @@ import khna from "./Styles/styles";
 export default function App() {
   return (
     <View style={khna.container}>
-      <Text style={khna.body}>Sent Successfully !</Text>
+      <Text style={khna.body}>Sent Successfully Congratulations !</Text>
       {/* <Image source={{uri: 'https://url_of_image.png'}} />   */}
       {/* <Image
         source={require("./pexels-eberhard-grossgasteiger-1366913.jpg")}
